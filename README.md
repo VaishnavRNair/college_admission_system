@@ -62,7 +62,7 @@ Follow console instructions
 
 👩‍💻 Author
 
-Megha Rajan
+Vaishnav R Nair
 Java Full Stack Developer
 
 📜 License
